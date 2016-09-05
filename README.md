@@ -1,2 +1,3 @@
-# blog
+# Blog 
+
 Blog for the TEDxPurdueU Site
